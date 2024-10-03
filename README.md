@@ -3,7 +3,7 @@ I have made different branches for each lab to access the codes of respective la
 My name is OJAS SRIVASTAVA </br>
 BTech Artificial Intelligence (2024-2028) </br>
 Roll no. A031 </br>
-Admission Number U24ai028 </br>
+Admission Number U24AI028 </br>
 
 
 
